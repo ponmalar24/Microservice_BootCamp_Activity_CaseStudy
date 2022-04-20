@@ -1,0 +1,9 @@
+[submodule "Microservice_BootCamp_Activity1"]
+	path = Microservice_BootCamp_Activity1
+	url = https://github.com/ponmalar24/Microservice_BootCamp_Activity_CaseStudy.git
+[submodule "Microservice_BootCamp_Activity2"]
+	path = Microservice_BootCamp_Activity2
+	url = https://github.com/ponmalar24/Microservice_BootCamp_Activity_CaseStudy.git
+[submodule "Microservice_BootCamp_Activity3"]
+	path = Microservice_BootCamp_Activity3
+	url = https://github.com/ponmalar24/Microservice_BootCamp_Activity_CaseStudy.git
